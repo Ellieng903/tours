@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tours/static/css/main.70157e58.css",
+    "main.js": "/tours/static/js/main.18f971e4.js",
+    "static/js/453.e2e32d40.chunk.js": "/tours/static/js/453.e2e32d40.chunk.js",
+    "static/media/beach.jpg": "/tours/static/media/beach.0f111f2ea7a59879f6f2.jpg",
+    "static/media/tour-4.png": "/tours/static/media/tour-4.5d2d3f5bf61d2736f71e.png",
+    "static/media/tour-2.png": "/tours/static/media/tour-2.c0da52bc47c52e9d15f5.png",
+    "static/media/tour-3.jpg": "/tours/static/media/tour-3.74d103afa269f5bf2050.jpg",
+    "static/media/tour-1.jpeg": "/tours/static/media/tour-1.2a370f08fb89680eb357.jpeg",
+    "static/media/beach_vector.jpeg": "/tours/static/media/beach_vector.66a9ca3070fbdab420c2.jpeg",
+    "static/media/react-example-logo.svg": "/tours/static/media/react-example-logo.4bf779eefb73ae2f9b2bec8685ae1a16.svg",
+    "index.html": "/tours/index.html",
+    "main.70157e58.css.map": "/tours/static/css/main.70157e58.css.map",
+    "main.18f971e4.js.map": "/tours/static/js/main.18f971e4.js.map",
+    "453.e2e32d40.chunk.js.map": "/tours/static/js/453.e2e32d40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70157e58.css",
+    "static/js/main.18f971e4.js"
+  ]
+}
